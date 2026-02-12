@@ -1,4 +1,4 @@
-# 📊 Meta Ad Performance Dashboard
+# 📊 Facebook and Instagram Analysis
 
 An interactive **Meta (Facebook & Instagram) Advertising Analytics Dashboard** designed to monitor, analyze, and optimize digital marketing performance.  
 This project transforms raw campaign data into actionable insights to support data-driven decision-making.
